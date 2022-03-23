@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='00 Cover_page'/>
+        <page name='V02-01 A class inherits from UIViewController'/>
+        <page name='V02-02 Declaration of loadFeed closure'/>
+        <page name='V02-03 Calling loadFeed closure from viewDidLoad'/>
+        <page name='V02-04 Typealias FeedLoader'/>
+        <page name='V02-05 Protocol FeedLoader'/>
+        <page name='V02-06 Implementation'/>
+        <page name='V02-07 New requierement – Solution 1'/>
+        <page name='V02-08 New requirement – Solution 2'/>
+        <page name='V02-09 New requirement – Solution 3'/>
+        <page name='V02-10 New requirement – Solution 3 - Refactoring'/>
+        <page name='V02-11 New requirement – Solution 3 - Refactoring 02'/>
+        <page name='V02-12 Instantiation'/>
+        <page name='V02-13 Shifting from initializer injection to property injection'/>
+    </pages>
+</playground>
